@@ -4,3 +4,6 @@ pandas
 matplotlib
 scikit-learn
 plotnine
+shiny 
+shinylive 
+seaborn
